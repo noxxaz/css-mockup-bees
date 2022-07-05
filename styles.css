@@ -39,3 +39,10 @@ td {
 tr:hover {
   background-color: #FBDF99;
 }
+div {
+  text-align: center;
+  margin: auto;
+}
+img {
+  width: 1400px;
+}
